@@ -1,5 +1,5 @@
 # IoT_Midterm
-
+Midterm project of undergraduate course: Internet of Things at Tongji university.
 
 
 ## Project setup
